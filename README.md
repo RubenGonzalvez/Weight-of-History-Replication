@@ -28,27 +28,27 @@
 
 #### Replication from Ramey & Zubairy (2018)
 
-The data is obtained following Ramey and Zubairy (2018) from this [link]
+The data is obtained following Ramey and Zubairy (2018) from this [[link]](https://www.journals.uchicago.edu/doi/suppl/10.1086/696277/suppl_file/2014646data.zip)
 
 ### 2.1 Appendix Data
 
 #### Romer & Romer (2004)
 
-The data is obtained following Romer and Romer (2004) and updated by Wieland and Yang (2019) from this [link] and [link] respectively.
+The data is obtained following Romer and Romer (2004) and updated by Wieland and Yang (2019) from this [[link]](https://www.openicpsr.org/openicpsr/project/116025/version/V1/view) and [[link]](https://github.com/johanneswieland/RomerShocks) respectively.
 
-Data for GDP and for unemployment are obtained from St. Louis Fred Data in [link], and [link] respectively. The replication codes are obtained from Òscar Jordà webpage.
+Data for GDP and for unemployment are obtained from St. Louis Fred Data in [[link]](https://fred.stlouisfed.org/series/GDPC1), and [[link]](https://fred.stlouisfed.org/series/UNRATE) respectively. The replication codes are obtained from Òscar Jordà [[webpage]](https://sites.google.com/site/oscarjorda/home/local-projections/aea-continuing-education-2023?authuser=0).
 
 #### Romer & Romer (2010)
 
-The data is obtained following Romer and Romer (2010) from this [link].
+The data is obtained following Romer and Romer (2010) from this [[link]](https://www.openicpsr.org/openicpsr/project/112357/version/V1/view).
 
 #### Gertler & Karadi (2015)
 
-The data is obtained following Gertler and Karadi (2015) from this [link].
+The data is obtained following Gertler and Karadi (2015) from this [[link]](https://www.openicpsr.org/openicpsr/project/114082/version/V1/view).
 
 #### Jordà, Singh & Taylor (2024)
 
-The data is obtained following Jordà, Singh and Taylor (2024) from this [link]. Macro-variables data for 17 countries is obtained from Macrohistory Database (Jordà, Schularick, and Taylor, 2017).
+The data is obtained following Jordà, Singh and Taylor (2024) from this [[link]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5DASMW). Macro-variables data for 17 countries is obtained from [Macrohistory Database](https://www.macrohistory.net/database/) (Jordà, Schularick, and Taylor, 2017).
 
 ## 3. Running code to replicate all figures and tables
 
