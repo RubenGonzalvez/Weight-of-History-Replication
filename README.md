@@ -28,7 +28,7 @@
 
 #### Replication from Ramey & Zubairy (2018)
 
-The data is obtained following Ramey and Zubairy (2018) from this [[link]](https://www.journals.uchicago.edu/doi/suppl/10.1086/696277/suppl_file/2014646data.zip)
+The data is obtained following [Ramey and Zubairy (2018)](https://www.journals.uchicago.edu/doi/suppl/10.1086/696277) from this [[link]](https://www.journals.uchicago.edu/doi/suppl/10.1086/696277/suppl_file/2014646data.zip)
 
 ### 2.1 Appendix Data
 
