@@ -2,7 +2,7 @@
 **# Global Directory: 
 *------------------------------------------------------------------------------*
 ** replace by 
-*global Folder "[YOUR PATH HERE!!]/Replication_File"
+global Folder "[YOUR PATH HERE!!]/Replication_File"
 cd "$Folder/"
 
 *------------------------------------------------------------------------------*
@@ -17,6 +17,8 @@ cd "$Folder/"
 *------------------------------------------------------------------------------*
 **# Set preferences:
 *------------------------------------------------------------------------------*
+net install scheme-modern, ///
+	from("https://raw.githubusercontent.com/mdroste/stata-scheme-modern/master/")
 set scheme Modern
 
 *------------------------------------------------------------------------------*
