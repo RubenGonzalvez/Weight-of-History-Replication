@@ -1,17 +1,6 @@
-
 *------------------------------------------------------------------------------*
 **# Global Directory: 
 *------------------------------------------------------------------------------*
-clear all
-if ("`c(username)'" == "ruben") {
-	global Folder = "C:/Users/ruben/Dropbox/Replication_Files/Ramey_Weights/2_Code/Replication_File"
-}
-
-if ("`c(username)'" == "Usuario") {
-	global Folder = "C:/Users/Usuario/Dropbox/Ramey_Weights/2_Code/Replication_File"
-}
-
-
 ** replace by 
 *global Folder "[YOUR PATH HERE!!]/Replication_File"
 cd "$Folder/"
