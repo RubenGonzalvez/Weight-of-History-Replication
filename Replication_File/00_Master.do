@@ -13,6 +13,8 @@ cd "$Folder/"
 *ssc install reghdfe
 *ssc install require
 *ssc install ivreghdfe
+*ssc install ranktest
+*ssc install estout
 
 *------------------------------------------------------------------------------*
 **# Set preferences:
