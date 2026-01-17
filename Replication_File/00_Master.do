@@ -21,7 +21,7 @@ cd "$Folder/"
 *------------------------------------------------------------------------------*
 net install scheme-modern, ///
 	from("https://raw.githubusercontent.com/mdroste/stata-scheme-modern/master/")
-set scheme Modern
+set scheme Modern, perm
 
 *------------------------------------------------------------------------------*
 **# Create folders
